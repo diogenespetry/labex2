@@ -14,5 +14,6 @@
     <string name="senha_string">Senha</string>
     <string name="title_minhas_turmas">Turmas que leciono</string>
     <string name="title_turmas">Turmas que sou aluno</string>
+    <string name="labex_string">Labex</string>
 
 </resources>
