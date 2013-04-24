@@ -89,7 +89,7 @@ public class ListaTurmasActivity extends FragmentActivity implements
 			
 			switch (position) {
 			case 0:
-				fragment = new TurmasQueLecionoFragment();
+				//fragment = new TurmasQueLecionoFragment();
 				break;
 
 			case 1:
@@ -104,6 +104,7 @@ public class ListaTurmasActivity extends FragmentActivity implements
 		@Override
 		public int getCount() {
 			// Show 3 total pages.
+			
 			return 2;
 		}
 
